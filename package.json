@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ehmicky/nyc-bug-two/issues"
   },
-  "homepage": "https://github.com/ehmicky/nyc-bug-two#readme"
+  "homepage": "https://github.com/ehmicky/nyc-bug-two#readme",
+  "dependencies": {
+    "nyc": "^13.1.0"
+  }
 }
